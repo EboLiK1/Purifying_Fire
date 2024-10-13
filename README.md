@@ -11,6 +11,8 @@ Purifying Fire - является 2D пиксель-арт игрой в жан�
 
 Создавая Purifying Fire я опирался на игру [Blasphemouse](https://store.steampowered.com/app/774361/Blasphemous/) и брал оттуда некоторые спрайты и звуки.
 
+Скачать [Purifying Fire](https://drive.google.com/file/d/1euWKlobgU2V3Soytyg_FeMntod1HWCdB/view?usp=sharing)
+
 <h1>Особенности</h1>
 
 Для лучшего погружения в игровой мир в игре реализовано:
